@@ -47,25 +47,21 @@ const projects = [
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
-  'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Languages: Proficient -> Javascript, Bash and C: Familiar with -> Python',
+  'Cloud: AWS, Azure, Upcloud and Google',
+  'Infrastructure as Code: Terraform, CloudFormation',
+  'Containerization: Docker',
+  'Orchestration: Kubernetes',
+  'Operating Systems: Linux: CentOs, Ubuntu, Fedora, Kali Linux, Windows Servers, windows and Macos',
+  'Monitoring: Prometheus, Grafana',
+  'Automation: Jenkins, Ansible, Docker, Git, Terraform, Jira',
+  'Web Technologies: HTML5, CSS3, SCSS, SASS',
+  'Other: Problem solving, Data structures and algorithms'
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'jamesnyambati260@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
